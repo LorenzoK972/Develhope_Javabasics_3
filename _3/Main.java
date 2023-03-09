@@ -1,4 +1,4 @@
-package javabasics._3;
+package Develhope_Javabasics_3._3;
 
 public class Main {
     public static void main(String[] args) {
